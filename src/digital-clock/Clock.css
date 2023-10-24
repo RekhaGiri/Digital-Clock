@@ -1,0 +1,30 @@
+.main{
+  height: 100vh;
+  width:100vw;
+  background-color:darkcyan;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.clock {
+    text-align: center;
+    font-size: 4rem;
+    background-color:rgba(144, 220, 67, 0.9);
+    color:black;
+    padding: 100px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+  }
+  
+  h4 {
+    font-size: 3rem;
+    margin: 0;
+    color:black;
+    font-weight: 50px;
+    padding-bottom: .8 rem;
+  }
+  
+  p {
+    margin: 0;
+  }
+  
