@@ -25,5 +25,4 @@ function Clock() {
     </div>
   );
 }
-
 export default Clock;
